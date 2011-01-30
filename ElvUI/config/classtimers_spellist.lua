@@ -3,6 +3,8 @@ CreateSpellEntry = function( id, castByAnyone, color, unitType, castSpellId )
 end
 
 TRINKET_FILTER = {
+        CreateSpellEntry( 91832 ), -- Raw Fury
+        CreateSpellEntry( 91836 ), -- Forged Fury
 	CreateSpellEntry( 73422 ), -- Chaos Bane
 	CreateSpellEntry( 71905 ), -- Soul Fragment
 	CreateSpellEntry( 67671 ), -- Fury(Banner of Victory)
